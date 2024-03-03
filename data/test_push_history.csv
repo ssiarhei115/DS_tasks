@@ -1,0 +1,5 @@
+line_item_id,dow_hod
+20557215517,"[('THURSDAY', (15, 22)),('FRIDAY', (15, 22)),('SATURDAY', (8, 22)),('SUNDAY', (8, 22))]"
+20553552908,"[('THURSDAY', (15, 22)),('FRIDAY', (15, 22)),('SATURDAY', (8, 22)),('SUNDAY', (8, 22))]"
+20573098306,"[('MONDAY', (14, 20)),('TUESDAY', (14, 20)),('WEDNESDAY', (14, 20)),('THURSDAY', (14, 20)),('FRIDAY', (14, 20))]"
+20573186371,"[('MONDAY', (14, 17)),('TUESDAY', (14, 17)),('WEDNESDAY', (14, 17)),('THURSDAY', (14, 17)),('FRIDAY', (14, 17))]"
