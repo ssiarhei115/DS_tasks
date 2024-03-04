@@ -1,4 +1,4 @@
-### Data Science Test Assignment
+### Data Science Test Assignment (code_1.ipynb)
 Recently we launched an advertising campaign that is targeted according to our occasion definitions. An occasion consists of a specific geographic region and time, with the goal being to identify certain audiences  (Eating Dinner, Going to a Concert, etc.). Each occasion consists of several line items representing different targeting settings inside the occasion. We are conducting a post-campaign analysis in order to understand how well we performed. You are going to help us to resolve one of the issues.
 Task
 
